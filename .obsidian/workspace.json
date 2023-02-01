@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "c2707029368b1f10",
+    "type": "split",
+    "children": [
+      {
+        "id": "477d059bf9673111",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dcdc430917914cb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14c638b2e5a7866e",
+    "type": "split",
+    "children": [
+      {
+        "id": "18be0cdf6230755e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0832561064754070",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e845415187fd68c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4286bdc62fad08c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "07a919f8cf2e5084",
+    "type": "split",
+    "children": [
+      {
+        "id": "efff928fd048dcbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "480041ac6752b713",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8dcdc430917914cb",
+  "lastOpenFiles": [
+    "Clean Code/Clean Code.md",
+    "Clean Code/Capítulo 2/Nomes Significativos.md",
+    "Clean Code/Capítulo 1/Untitled.md",
+    "Node/Express.js.md",
+    "Clean Code/Capítulo 1/Código Limpo.md",
+    "Clean Code/Capítulo 1/Entrevistas.md",
+    "Clean Code/Capítulo 1/Código Ruim.md",
+    "Javascript/Core Javascript.md",
+    "Node/Node.js.md",
+    "Javascript/Event Loop.md"
+  ]
+}
