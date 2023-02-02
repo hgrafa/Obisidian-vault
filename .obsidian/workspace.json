@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "477d059bf9673111",
+        "id": "a8b2b4971d801e61",
         "type": "tabs",
         "children": [
           {
-            "id": "8dcdc430917914cb",
+            "id": "8adb1e71f853a56e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -85,8 +85,44 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "9d12273ffc9db2ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b307cbe8482930e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c88c3381ab1e3ff4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,17 +139,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dcdc430917914cb",
+  "active": "8adb1e71f853a56e",
   "lastOpenFiles": [
-    "Clean Code/Clean Code.md",
-    "Clean Code/Capítulo 2/Nomes Significativos.md",
-    "Clean Code/Capítulo 1/Untitled.md",
-    "Node/Express.js.md",
-    "Clean Code/Capítulo 1/Código Limpo.md",
-    "Clean Code/Capítulo 1/Entrevistas.md",
-    "Clean Code/Capítulo 1/Código Ruim.md",
-    "Javascript/Core Javascript.md",
-    "Node/Node.js.md",
-    "Javascript/Event Loop.md"
+    "Javascript/Untitled.md",
+    "git/Commitlint.md",
+    "Untitled.canvas",
+    "node_modules/fs-extra/README.md",
+    "Untitled.md",
+    "RD/Dopamina.md",
+    "RD/Jejum de Dopamina.md",
+    "RD/Mimados dopaminérgicos.md",
+    "RD/Dormir bem.md",
+    "Clean Code/Clean Code.md"
   ]
 }

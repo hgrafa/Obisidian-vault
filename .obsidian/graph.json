@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Node",
@@ -48,6 +48,20 @@
         "a": 1,
         "rgb": 14451204
       }
+    },
+    {
+      "query": "path:RD",
+      "color": {
+        "a": 1,
+        "rgb": 13697024
+      }
+    },
+    {
+      "query": "path:git",
+      "color": {
+        "a": 1,
+        "rgb": 12268798
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +74,6 @@
   "repelStrength": 10.3125,
   "linkStrength": 0.916666666666667,
   "linkDistance": 260,
-  "scale": 0.5087618855792597,
+  "scale": 0.7132754626224534,
   "close": false
 }

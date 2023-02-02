@@ -1,3 +1,7 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "obisidian.linkResolver.excludeFolders": [
+    "node_modules"
+  ],
+  "attachmentFolderPath": "Assets"
 }
