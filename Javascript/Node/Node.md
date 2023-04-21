@@ -1,0 +1,1 @@
+Node, Npm e [[Yarn]] e afins são gerenciadores de pacotes e funcionalidades dentro de projetos utilizando [[Core Javascript]] ou [[Core Typescript]]

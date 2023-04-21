@@ -3,5 +3,6 @@
   "obisidian.linkResolver.excludeFolders": [
     "node_modules"
   ],
-  "attachmentFolderPath": "Assets"
+  "attachmentFolderPath": "Assets",
+  "alwaysUpdateLinks": true
 }

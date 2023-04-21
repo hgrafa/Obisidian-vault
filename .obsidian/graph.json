@@ -53,7 +53,7 @@
       "query": "path:RD",
       "color": {
         "a": 1,
-        "rgb": 13697024
+        "rgb": 8388608
       }
     },
     {
@@ -62,18 +62,81 @@
         "a": 1,
         "rgb": 12268798
       }
+    },
+    {
+      "query": "path:React",
+      "color": {
+        "a": 1,
+        "rgb": 49151
+      }
+    },
+    {
+      "query": "path:\"Mentoria\"",
+      "color": {
+        "a": 1,
+        "rgb": 5507839
+      }
+    },
+    {
+      "query": "path:Docker",
+      "color": {
+        "a": 1,
+        "rgb": 7063295
+      }
+    },
+    {
+      "query": "path:Frontend",
+      "color": {
+        "a": 1,
+        "rgb": 7470799
+      }
+    },
+    {
+      "query": "path:Livros",
+      "color": {
+        "a": 1,
+        "rgb": 16747202
+      }
+    },
+    {
+      "query": "path:Dotnet",
+      "color": {
+        "a": 1,
+        "rgb": 6005
+      }
+    },
+    {
+      "query": "path:Angular",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Strategies/Algoritmos",
+      "color": {
+        "a": 1,
+        "rgb": 9044080
+      }
+    },
+    {
+      "query": "path:\"Strategies/Estruturas de Dados\"",
+      "color": {
+        "a": 1,
+        "rgb": 40603
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": 0.2,
-  "nodeSizeMultiplier": 1.478125,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.7078125,
   "lineSizeMultiplier": 2.52447916666667,
   "collapse-forces": true,
-  "centerStrength": 0.494791666666667,
-  "repelStrength": 10.3125,
+  "centerStrength": 0.385416666666667,
+  "repelStrength": 16.3541666666667,
   "linkStrength": 0.916666666666667,
-  "linkDistance": 260,
-  "scale": 0.7132754626224534,
+  "linkDistance": 436,
+  "scale": 0.11660891579457429,
   "close": false
 }

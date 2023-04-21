@@ -1,2 +1,4 @@
-- [[SOLID]]
-- [[Design Patterns]]
+- [[Estruturas de dados]]
+- [[Orientação a objetos]]
+- [[Expressões Lambda]]
+- 
