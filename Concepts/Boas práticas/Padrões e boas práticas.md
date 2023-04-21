@@ -1,0 +1,7 @@
+- [[SOLID]]
+- [[DRY, KISS e YAGNI]]
+- [[Composition over inheritance]]
+- [[Software Development]]
+- [[Concepts/Boas práticas/Dependency Injection]]
+- [[Design Patterns]]
+- [[Render Patterns]]

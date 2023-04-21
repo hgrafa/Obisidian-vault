@@ -4,15 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "a8b2b4971d801e61",
+        "id": "45d4170c9517e533",
         "type": "tabs",
         "children": [
           {
-            "id": "8adb1e71f853a56e",
+            "id": "0162835f2e274966",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "1eae8213246f96bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Estilização componentizada.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path: Fet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 284.5
   },
   "right": {
     "id": "07a919f8cf2e5084",
@@ -139,17 +153,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8adb1e71f853a56e",
+  "active": "0162835f2e274966",
   "lastOpenFiles": [
-    "Javascript/Untitled.md",
-    "git/Commitlint.md",
-    "Untitled.canvas",
-    "node_modules/fs-extra/README.md",
-    "Untitled.md",
-    "RD/Dopamina.md",
-    "RD/Jejum de Dopamina.md",
-    "RD/Mimados dopaminérgicos.md",
-    "RD/Dormir bem.md",
-    "Clean Code/Clean Code.md"
+    "React/Estilização componentizada.md",
+    "Strategies/Algoritmos/Knapsack Problem.md",
+    "Strategies/Algoritmos/Dinamic Programming.md",
+    "Strategies/Algoritmos/Estratégias de Resolução.md",
+    "Strategies/Estruturas de Dados/Segment Tree.md",
+    "Strategies/Estruturas de Dados/Binary Tree.md",
+    "Strategies/Estruturas de Dados/Circular Linked Lists.md",
+    "Strategies/Estruturas de Dados/Lists.md",
+    "Strategies/Estruturas de Dados/Double Linked Lists.md",
+    "Strategies/Estruturas de Dados/Linked Lists.md",
+    "Strategies/Estruturas de Dados/AVL Tree.md",
+    "Strategies/Estruturas de Dados/Trees.md",
+    "Strategies/Estruturas de Dados/Graphs.md",
+    "Strategies/Estruturas de Dados/Estrutura de Dados.md",
+    "Strategies/Estruturas de Dados/HashTables.md",
+    "Strategies/Estruturas de Dados/Sets.md",
+    "Strategies/Algoritmos/Binary Search.md",
+    "Strategies/Algoritmos/Divide and Conquer.md",
+    "Strategies/Algoritmos/Counting Inversions.md",
+    "Strategies/Algoritmos/Merge Sorting.md",
+    "Strategies/Algoritmos/Sorting.md",
+    "Álgebra Linear/Untitled.md",
+    "LinearAlgebra",
+    "React/React.md",
+    "React/Before React.md",
+    "Strategies",
+    "Strategies/Algoritmos/Análise Assintótica.md",
+    "Strategies/Algoritmos/Algoritmos.md",
+    "Concepts/Distributed Systems",
+    "Strategies/Algoritmos",
+    "Strategies/Estruturas de Dados",
+    "Concepts/Compiladores",
+    "Concepts/Boas práticas",
+    "Concepts/Paradigmas",
+    "Concepts/Boas práticas/Patterns",
+    "Concepts/Software Development",
+    "Assets/Pasted image 20230329184643.png",
+    "Assets/Pasted image 20230329184457.png",
+    "Assets/Pasted image 20230329183620.png",
+    "Assets/Pasted image 20230329183318.png",
+    "Assets/Pasted image 20230329182912.png",
+    "Assets/Pasted image 20230329182902.png",
+    "Assets/Pasted image 20230329180718.png",
+    "Assets/Pasted image 20230329180547.png",
+    "Assets/Pasted image 20230329180521.png",
+    "Assets/Pasted image 20230327185456.png"
   ]
 }

@@ -1,0 +1,3 @@
+- [[Estratégias de Resolução]]
+- [[Complexidade de Algoritmos]]
+- 

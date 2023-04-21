@@ -7,8 +7,9 @@ Também é possível que existam requisições do tipo [[RPC]] sendo umas das ma
 
 ## Tecnologias para fazer API's
 
-- Em [[Node.js]] feitas com [[Express.js]]
+- Em javascript feitas através do[[Node.js]] e tecnologias internas.
 - Em Java através do [[Spring boot]]
+- Em C# com o [[Asp.Net web API]]
 
 ## Composta por
 
@@ -21,36 +22,6 @@ Também é possível que existam requisições do tipo [[RPC]] sendo umas das ma
 - Utilização dos status adequados
 - Padrão de nomenclatura com o verbos HTTP
 
-## Métodos de Requisições - HTTP
+## Fake API
 
-- GET - leitura
-- POST - Criação
-- PUT - Atualização
-- DELETE - deleção
-- PATCH - Atualização Parcial (pode ser com PUT também)
-
-## HTTP Codes
-
-- **1XX**: Informativo - aceita ou continua em andamento
-- **2XX**: Confirmação 
-	- **200**: Bem sucedida
-	- **201**: Created, geralmente usado para POST após uma inserção
-- **3XX**: Redirecionamento
-	- **301**: Moved Permanently
-	- **302**: Moved
-- **4XX**: Erro do Cliente
-	- **401**: Bad Request
-	- **402**: Unauthorized
-	- **403**: Forbidden
-	- **404**: Not Found
-	- **422**: Unprocessable Entity
-- **5XX**: Erro no servidor
-	- **500**: Internal Server Error
-	- **502**: Bad Gateway
-
-## Parâmetros
-
-- Header Params
-- Query Params
-- Route Params
-- Body Params
+podemos fazer uma Fake API básica utilizando a dependência [[Json Server]]

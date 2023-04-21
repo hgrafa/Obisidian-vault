@@ -1,0 +1,3 @@
+- [[Compilação]]
+- [[Interpretação]]
+- [[Pré-compilação]]
