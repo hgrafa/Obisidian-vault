@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": "#c20000",
+    "recentlyUsedIcons": [
+      "FabSafari",
+      "SiTypescript",
+      "SiSpringboot",
+      "FabReact",
+      "FarNote-sticky"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "Angular": "SiAngular",
+  "Assets": "FasImages",
+  "Concepts": "FasLightbulb",
+  "Docker": "SiDocker",
+  "Dotnet": "SiDotnet",
+  "Frontend": "FabSafari",
+  "Java": "FabJava",
+  "Javascript": "FabJs",
+  "Livros": "FasBookmark",
+  "Mentoria": "FarNote-sticky",
+  "RD": "FasBrain",
+  "React": "FabReact",
+  "Spring": "SiSpringboot",
+  "Typescript": "SiTypescript"
+}
