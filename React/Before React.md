@@ -33,6 +33,72 @@ console.log(`Salario: ${salario1}`);
 console.log(`Cargo: ${salario2}`);
 ```
 
+### 🚩 Problema
+
+**falsy values =>** `0`, `''`, `[]`, `false`, `undefined`, `null`
+
+Caso a `age` seja zero, a resposta continuaria dando `'Empty`
+
+### 🟢 Solução
+
+`??` é mais restritivo
+
+```js
+document.body.innerText = 'Your age is: ' + (age ?? 'Empty')
+```
+
+## Objetos
+
+```js
+const user = {
+  name: 'Hugo',
+  age: 21,
+  address: {
+    street: 'Rua',
+    number: '123'
+  }
+};
+
+document.body.innerText = ('name' in user) 
+// true
+
+document.body.innerText = ('nickname' in user) 
+// false
+```
+
+## Métodos interessantes
+
+```js
+document.body.innerText = Objects.keys(user)
+// name, age, address
+```
+
+----
+
+```js
+document.body.innerText = Objects.values(user)
+```
+
+```json
+'Hugo', 21, [object Object]
+```
+------
+
+```js
+document.body.innerText = JSON.stringfy(Objects.values(user))
+```
+
+```json
+[
+ 'Hugo',
+ 21,
+ {
+   "steet" : "Rua",
+   "number" : 123
+ } 
+]
+```
+
 ## Desestruturação
 
 ```js
@@ -129,8 +195,6 @@ const sum = (a, b) => {
 		}, 2000)
 	})
 }
-
-const 
 
 sum(4, 5)
 	.then(result => console.log(result));

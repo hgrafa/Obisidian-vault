@@ -1,7 +1,7 @@
 
 - Wrappers
 - Embrulhadores de funções
-- High Order Functions(HOFs)
+- [[High Orders Functions (HOFs)]]
 
 ```python
 from functools import cache

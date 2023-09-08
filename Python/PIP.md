@@ -14,6 +14,7 @@ site.getsitepackages()
 - Nossos pacotes ficam desorganizados, já que ocorre uma fusão de tudo.
 - Bibliotecas podem acabar baixando outras que usam internamente, e ela pode precisar de diferentes versões. **Conflito interno de versões entre dependências mais robustas.**
 
+
 ## Solução
 
 - [[VENV]]

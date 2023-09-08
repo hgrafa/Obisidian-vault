@@ -1,3 +1,6 @@
+```bash
+Set-ExecutionPolicy Unrestricted -Force
+```
 O Virtual Enviroment cria um ambiente falso, com um `sitepackages` particular para por apenas as dependências necessárias e bem resolvidas no projeto atual.
 
 ![[Pasted image 20230510162703.png]]

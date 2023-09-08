@@ -4,5 +4,6 @@
     "node_modules"
   ],
   "attachmentFolderPath": "Assets",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheckLanguages": null
 }

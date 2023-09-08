@@ -50,13 +50,6 @@
       }
     },
     {
-      "query": "path:RD",
-      "color": {
-        "a": 1,
-        "rgb": 8388608
-      }
-    },
-    {
       "query": "path:git",
       "color": {
         "a": 1,
@@ -125,6 +118,20 @@
         "a": 1,
         "rgb": 40603
       }
+    },
+    {
+      "query": "path:Python",
+      "color": {
+        "a": 1,
+        "rgb": 16762445
+      }
+    },
+    {
+      "query": "path:RD",
+      "color": {
+        "a": 1,
+        "rgb": 10682368
+      }
     }
   ],
   "collapse-display": true,
@@ -137,6 +144,6 @@
   "repelStrength": 16.3541666666667,
   "linkStrength": 0.916666666666667,
   "linkDistance": 436,
-  "scale": 0.15285788481981755,
-  "close": false
+  "scale": 0.07556476003987243,
+  "close": true
 }

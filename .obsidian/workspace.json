@@ -18,30 +18,19 @@
             }
           },
           {
-            "id": "92c442fd7deaf074",
+            "id": "b4dea4fcddd01851",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Decorators/Decorators.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1afd3d10060bb30c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Decorators/Cache decorator.md",
+                "file": "Javascript/Puppeteer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Javascript/Puppeteer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Javascript/Puppeteer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Javascript/Puppeteer.md"
+              }
             }
           }
         ],
@@ -173,44 +166,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0162835f2e274966",
+  "active": "b4dea4fcddd01851",
   "lastOpenFiles": [
-    "Python/Decorators/Cache decorator.md",
-    "Python/Decorators",
-    "Python/Decorators/Decorators.md",
-    "Python/Untitled.md",
-    "Python/Libraries/Untitled.md",
-    "Python/Libraries/Utilities",
-    "Python/Libraries/Web/Streamlit.md",
-    "Python/Libraries/Tests",
-    "Python/Libraries/Web/Fast API.md",
-    "Python/Libraries/Web/Django.md",
-    "Python/Libraries/Web",
-    "Python/Libraries/Web/HTTPX.md",
-    "Python/Libraries",
     "Python/PIP.md",
+    "Javascript/Puppeteer.md",
     "Python/VENV.md",
+    "React/Before React.md",
+    "RD/Ambiente.md",
+    "RD/Modulação.md",
+    "Mentoria/Tríade da transformação.md",
+    "Mentoria/Princípio do Progresso.md",
+    "Mentoria/Neuroplasticidade.md",
+    "Mentoria/GPS Titã.md",
+    "Mentoria/Dúvidas Mentoria.md",
+    "Javascript/Node/Json Server.md",
+    "Javascript/Fetch.md",
+    "React/API com React.md",
+    "Spring/Spring Security.md",
+    "Spring/Untitled.md",
+    "Typescript/Core Typescript.md",
+    "Typescript/Javascript differences.md",
+    "Java/Coringas (Wildcards).md",
+    "Javascript/Core Javascript.md",
+    "Java/Orientação a objetos.md",
+    "Java/Generics.md",
+    "Javascript/Node/Axios.md",
+    "Typescript/Class.md",
+    "Javascript/Event Loop.md",
+    "Untitled.md",
+    "Python/Decorators",
+    "Python/Libraries/Utilities",
+    "Python/Libraries/Tests",
+    "Python/Libraries/Web",
+    "Python/Libraries",
     "Assets/Pasted image 20230510162703.png",
     "Assets/Pasted image 20230510155124.png",
-    "Python/Poetry/Poetry.md",
     "Python/Poetry",
     "Python",
-    "RD/Homeostase.md",
-    "RD/Treino.md",
-    "RD/Alimentação.md",
     "Livros/Untitled.canvas",
     "Angular/Untitled.canvas",
-    "scksc.md",
-    "sdms.md",
-    "npdsd.md",
-    "RD/Comportamento Soma Zero.md",
-    "RD/Ambiente.md",
-    "React/Estilização componentizada.md",
-    "Strategies/Algoritmos/Knapsack Problem.md",
-    "Strategies/Algoritmos/Dinamic Programming.md",
-    "Strategies/Algoritmos/Estratégias de Resolução.md",
-    "Strategies/Estruturas de Dados/Segment Tree.md",
-    "Strategies/Estruturas de Dados/Binary Tree.md",
     "LinearAlgebra",
     "Strategies",
     "Concepts/Distributed Systems",

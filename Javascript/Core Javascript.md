@@ -1,7 +1,7 @@
 
 ## Características
 
-- [[Event Loop]]- Call Stack
+- [[Event Loop]] - Call Stack
 - Single Thread
 
 ## Conectando com o backend
