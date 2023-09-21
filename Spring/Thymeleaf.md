@@ -2,4 +2,4 @@ A Thymeleaf auxilia na contrução de páginas, sendo um [[Template Engine]] par
 
 A Thymeleaf compõe um modelo tradicional chamado Models Views e Controllers, sendo o papel do Frontend (**Camada Views**) permitindo a passagem do código java para as telas.
 
-A Thymleaf segue um padrão de [[SSR]]
+A Thymleaf segue um padrão de [[Template Engine]]

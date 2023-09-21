@@ -1,4 +1,4 @@
-Utilizamos o modelo Asp.Net para construir nosso [[Backend]] com a linguagem C#.
+Utilizamos o modelo Asp.Net para construir nosso Backend com a linguagem C#.
 
 [[Dotnet/Dependency Injection]]
 [[Dotnet/Controllers]]

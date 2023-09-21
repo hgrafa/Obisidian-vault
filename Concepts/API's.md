@@ -7,9 +7,10 @@ Também é possível que existam requisições do tipo [[RPC]] sendo umas das ma
 
 ## Tecnologias para fazer API's
 
-- Em javascript feitas através do[[Node.js]] e tecnologias internas.
+- Em javascript feitas através do [[Fastify]] e do [[Express.js]]
 - Em Java através do [[Spring boot]]
 - Em C# com o [[Asp.Net web API]]
+- Em Python com o [[Rest Framework]], [[Flask]] e com o [[Fast API]]
 
 ## Composta por
 

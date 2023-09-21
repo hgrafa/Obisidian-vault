@@ -1,3 +1,0 @@
-- [[CommitLint]]
-- [[ES Lint]]
-- [[Lint Staged + Husky]]

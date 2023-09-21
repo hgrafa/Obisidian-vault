@@ -1,5 +1,4 @@
 O Spring data JPA é uma [[ORM]] (**Object Relational Mapper**)
-
 ## Objetivo
 
 - Abstrair a comunicação ente o projeto Spring e o banco de dados, abstraindo o sql que seria gerado pelo caminho.

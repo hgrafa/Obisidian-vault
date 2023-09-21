@@ -9,7 +9,7 @@
 ## Problemáticas
 
 - Jetlag social
-- Noites mal dormidas zoam sua [[Saúde Mental]] a médio e longo prazo.
+- Noites mal dormidas zoam sua Saúde Mental a médio e longo prazo.
 
 ## Fases do sono
 

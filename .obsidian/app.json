@@ -5,5 +5,8 @@
   ],
   "attachmentFolderPath": "Assets",
   "alwaysUpdateLinks": true,
-  "spellcheckLanguages": null
+  "spellcheckLanguages": null,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "spellcheck": true
 }

@@ -1,6 +1,6 @@
-Node.js é uma tecnologia que nos permite construir [[API's]] usando a o [[Core Javascript]] ou o [[Core Typescript]] para desenvolver o nosso backend.
+Node.js é uma tecnologia que nos permite construir [[API's]] usando a o [[Core Javascript]] para desenvolver o nosso backend.
 
-É uma tecnologia filha do gerenciador de dependencias [[Node]] que se voltou para o lado do servidor.
+É uma tecnologia filha do gerenciador de dependencias Node que se voltou para o lado do servidor.
 
 ## Motivação
 
@@ -15,16 +15,14 @@ Node.js é uma tecnologia que nos permite construir [[API's]] usando a o [[Core 
 
 ## Gerenciadores de pacotes
 
-- [[Node]] e [[Yarn]]
+- npm
 - Instalar bibliotecas externas
 - Disponibilizar bibliotecas
-- Vamos utilizar Yarn (velocidade)
 
 ## Frameworks
 
-Irão construir as nossas [[API's]]
-
-- [[Express.js]]
+- Express.js
+- Fastify
 - Egg.js
 - Nest.js
 - Adonis.js

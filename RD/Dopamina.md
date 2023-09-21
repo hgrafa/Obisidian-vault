@@ -32,7 +32,3 @@ Alinhe sua recompensa com o suco que será recebido. Se o suco a ser recebido n�
 ## Problemas com dopamina
 
 - [[Mimados dopaminérgicos]]
-
-## Links
-
-- [[Pilar da Clareza]] - Geronimo Theml

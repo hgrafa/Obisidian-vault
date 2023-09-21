@@ -4,4 +4,4 @@ Para lidarmos com excessões dentro de controladores usamos controladores to tip
 
 [[DTO]]
 
-[[Paginação]]
+[[Paginação e Ordenação]]

@@ -4,7 +4,7 @@
 2. **Hypervisor:** virtualizador, sistema operacional
 3. **Virtual Machine:** Espaço virtual
 4. **Operating System** (Ubuntu, Debian, etc)
-5. [[Aplicações]] : Aqui colocamos o que realmente executa
+5. Aplicações : Aqui colocamos o que realmente executa
 
 ### Problemáticas deste aproach
 

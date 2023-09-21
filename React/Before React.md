@@ -1,6 +1,5 @@
 
 [[Core Javascript]]
-[[Core Typescript]]
 
 ## Compilers and Bundlers
 

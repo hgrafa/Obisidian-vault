@@ -1,13 +1,11 @@
 O Typescript é um superset da linguagem [[Core Javascript]] , fornecendo tipos e uma melhor sintaxe durante o desenvolvimento.
 
-O [[Core Typescript]] é transpilado para [[Core Javascript]] antes de ser enviado ao browser ou destino de execução.
+O Typescript é transpilado para Javascript antes de ser enviado ao browser ou destino de execução.
 
 ## Oriented Object Programming
 
 - [[Javascript differences]]
-- [[Typescript/Class]]
-- [[Typescript/Interface]]
-- [[Typescript/Type]]
+- [[OOP]]
 
 ## Comandos
 
@@ -20,19 +18,14 @@ O [[Core Typescript]] é transpilado para [[Core Javascript]] antes de ser envia
 ### criando um arquivo dedicado para estágio de desenvolvimento:
 
 ```bash
-  npm install typescript -D
-```
+// instalando typescript para desenvolvimento 
+npm install typescript -D
 
-### executando
+// executando codigo typscript
+npx tsc src/index.ts
 
-```bash
-  npx tsc src/index.ts
-```
-
-### Criando TS config
-
-```bash
-  npx tsc --init
+// criando TS config
+npx tsc --init
 ```
 
 ### configurações relevantes
@@ -66,4 +59,21 @@ chamada:
 
 ```bash
   npm run start
+
+```
+
+## Async functions
+
+```ts
+async function getData(id : number) {
+  return "felipe";
+}
+```
+
+com retorno explicito o retorno desta função é uma `Promise<string>`
+
+```ts
+async function getData(id : number) : Promise<string> {
+  return "felipe";
+}
 ```
