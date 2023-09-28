@@ -18,30 +18,19 @@
             }
           },
           {
-            "id": "e48d3632eb54881c",
+            "id": "c551f0ca925c2c38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Exception Handler.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b222ef1a39d13e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Next/NEXT 13.md",
+                "file": "React/Next/Rotas NEXT 13.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React/Next/Rotas NEXT 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/Next/Rotas NEXT 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React/Next/Rotas NEXT 13.md"
+              }
             }
           }
         ],
@@ -173,36 +166,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0162835f2e274966",
+  "active": "c551f0ca925c2c38",
   "lastOpenFiles": [
-    "React/Next/NEXT 13.md",
     "React/Next/Getting Started Next.md",
+    "React/Next/NEXT 13.md",
+    "React/Next/Rotas NEXT 13.md",
+    "React/SSR streaming.md",
+    "Java/Orientação a objetos.md",
+    "Java/Coringas (Wildcards).md",
+    "Java/Polimorfismo.md",
+    "Java/Herança.md",
+    "Java/Generics.md",
+    "Java/Encapsulamento.md",
+    "Java/Abstração.md",
+    "Java/Interfaces Funcionais.md",
+    "Spring/Spring Security.md",
+    "Java/Records.md",
     "Spring/Exception Handler.md",
-    "Spring/Controllers.md",
-    "Spring/Esteriótipos.md",
-    "Spring/Services.md",
+    "Deploy/Netlify.md",
+    "Dotnet/DotNet API.md",
+    "Deploy",
+    "Spring/Spring boot.md",
     "Spring/Spring Data JPA.md",
+    "Spring/Esteriótipos.md",
+    "Spring/Controllers.md",
+    "Spring/Services.md",
     "Spring/Repositories.md",
     "Concepts/Migrations.md",
     "Spring/Paginação e Ordenação.md",
-    "Spring/Spring boot.md",
     "Spring/Esteriotipos.md",
-    "Dotnet/Repositories.md",
-    "Spring/Spring Security.md",
-    "Spring/Beans.md",
-    "Spring/JWT.md",
-    "Spring/Token Factory.md",
-    "React/React.md",
-    "React/Tools/Loading Skeleton Pages.md",
-    "React/API com React.md",
-    "React/Styles/Estilização componentizada.md",
-    "React/Components.md",
-    "React/Styles/Stiches.md",
     "React/Styles",
-    "React/Next/Rotas NEXT 13.md",
     "React/Tools",
-    "Dotnet/Controllers.md",
-    "Spring/Mapstruct.md",
     "Python/Flask",
     "Angular/Untitled.canvas",
     "Python/Django",
@@ -211,7 +205,6 @@
     "React/Next/Untitled",
     "React/Next",
     "Python/Decorators",
-    "Python/Libraries/Utilities",
     "Assets/Pasted image 20230510162703.png",
     "Assets/Pasted image 20230510155124.png",
     "Livros/Untitled.canvas",

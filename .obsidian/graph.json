@@ -5,13 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Node",
       "color": {
         "a": 1,
-        "rgb": 548610
+        "rgb": 555520
       }
     },
     {
@@ -130,11 +130,18 @@
       "query": "path:RD",
       "color": {
         "a": 1,
-        "rgb": 10682368
+        "rgb": 9575452
+      }
+    },
+    {
+      "query": "path:Deploy  ",
+      "color": {
+        "a": 1,
+        "rgb": 6750023
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 1.7078125,
@@ -144,6 +151,6 @@
   "repelStrength": 16.3541666666667,
   "linkStrength": 0.916666666666667,
   "linkDistance": 436,
-  "scale": 0.1485267709349704,
+  "scale": 0.1485267709349717,
   "close": true
 }
