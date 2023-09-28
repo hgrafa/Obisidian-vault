@@ -9,7 +9,7 @@ Também é possível que existam requisições do tipo [[RPC]] sendo umas das ma
 
 - Em javascript feitas através do [[Fastify]] e do [[Express.js]]
 - Em Java através do [[Spring boot]]
-- Em C# com o [[Asp.Net web API]]
+- Em C# com o [[DotNet API]]
 - Em Python com o [[Rest Framework]], [[Flask]] e com o [[Fast API]]
 
 ## Composta por
