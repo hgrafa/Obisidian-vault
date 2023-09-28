@@ -3,6 +3,14 @@ O Spring data JPA é uma [[ORM]] (**Object Relational Mapper**)
 
 - Abstrair a comunicação ente o projeto Spring e o banco de dados, abstraindo o sql que seria gerado pelo caminho.
 - Abstrair o uso da própria JPA com Spring Data JPA, usando interfaces Repository que facilitam nosso uso através de **Especificações.**
+## Migrations
+
+Para enviarmos  scripts ao banco nem sempre é interessante dar esta manutenção diretamente pela JPA, por isso utilizamos a estratégia de **Migrations**. Isto é: 
+
+- Versionamento do banco
+- Controle de estado do banco entre possíveis diferentes origens
+
+Dentro do spring boot temos a [[Flyway]]
 
 ## Usos interessantes
 
