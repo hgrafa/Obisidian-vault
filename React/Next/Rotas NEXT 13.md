@@ -31,6 +31,7 @@ Agora o padrão no next é chamar o arquivo principal de `page.tsx`
 		|📝loading.tsx
 	 |📝head.tsx
 	 |📝layout.tsx
+	 |📝template.tsx
 	 |📝page.tsx
  |📂 pages
 	 |📂 api
@@ -42,7 +43,23 @@ Agora o padrão no next é chamar o arquivo principal de `page.tsx`
 	- Pode ser usado dentro de um conjunto de rotas específico, como um layout que deve ser repetido em todo contexto de autenticação por exemplo.
 	- O Next vai concatenar o layout
 - `head.tsx`: este arquivo existe na raiz da `src/app` mas pode ser inserido dentro de qualquer contexto para adicionar e concatenar coisas ao head da pagina quando carregada.
-- `loading.tsx`: 
+- `loading.tsx`: é uma página que vai ser carregada enquanto o componente desejado está carregando.
+- `template.tsx`: Este arquivo é bem similar ao layout, porém ele recarrega a cada troca de página, enquanto que o layout apenas recarrega os componentes de dentro.
+
+## Rotas dinâmicas
+
+```
+📂 src
+ |📂 app
+	 |📂 product
+	    |📝 page.tsx
+	 |📂 (auth)
+		|📂 signin
+			|📝 page.tsx
+		|📂 signup
+		    |📝page.tsx
+```
+
 ## Evitando roteamento de pastas
 
 Num contexto de login e register, que um layout poderia ser reaproveitado, poderíamos usar uma pasta `auth` para criar este arquivo.
