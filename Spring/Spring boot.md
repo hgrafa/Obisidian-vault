@@ -11,4 +11,3 @@ O Spring boot segue uma filosofia de [[Esteriótipos]] durante seu desenvolvimen
 ## Segurança
 
 - [[Spring Security]]
-- [[JWT]]

@@ -1,14 +1,12 @@
-## Pilares
-- [[Abstração]]
-- [[Encapsulamento]]
-- [[Herança]]
-- [[Polimorfismo]]
-- 
+##  Abstração
+## Encapsulamento
+## Herança
+## Polimorfismo
+
+ 
 ## Complementos
 
 - [[Generics]]
 - [[Coringas (Wildcards)]]
 
-## Recursos novos
-
-- [[Records]]
+## Records
