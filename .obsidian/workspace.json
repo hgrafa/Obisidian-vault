@@ -16,30 +16,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "019c5f563f1bfc7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/PIP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b83359abb5f6ded4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Decorators/Decorators.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -175,9 +151,9 @@
   },
   "active": "0162835f2e274966",
   "lastOpenFiles": [
-    "README.md",
     "Python/Decorators/Decorators.md",
     "Python/PIP.md",
+    "README.md",
     "Python/High Orders Functions (HOFs).md",
     "Python/Decorators/Cache decorator.md",
     "Python/Libraries/Web/Streamlit.md",
