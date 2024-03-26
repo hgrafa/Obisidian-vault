@@ -1,4 +1,4 @@
-- [[Spring/Controllers|Controllers]]
+- [[Java/Spring/Controllers|Controllers]]
 
 
 ## Services

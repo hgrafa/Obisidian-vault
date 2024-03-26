@@ -14,7 +14,7 @@ def cached_foo(a, b):
 	return a*a + b/2
 ```
 
-## Com [[Cache decorator]]
+## Com Cache decorator
 
 ```python
 print(
@@ -30,7 +30,7 @@ $ time python decorators.py
 real    0m0.114s
 ```
 
-## Sem [[Cache decorator]]
+## Sem Cache decorator
 
 ```python
 print(

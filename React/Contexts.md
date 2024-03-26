@@ -1,4 +1,4 @@
-```js
+```tsx
 import { createContext, ReactNode, useEffect, useState } from 'react';
 
 interface Transaction {
@@ -42,6 +42,4 @@ export function TransactionsProvider({ children }: TransactionsProviderProps) {
 }
 ```
 
-## Melhorias
-
-- Usando [[Reduce]] para melhorar o trabalho com as transactions.
+Na geração de contexts acabamos criando [[React Hooks]] para uso em tudo que estiver no escopo do nosso provider, tal qual uma variável global.

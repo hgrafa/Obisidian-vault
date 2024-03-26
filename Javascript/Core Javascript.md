@@ -1,15 +1,19 @@
+- [[Bibliotecas]]
+## Event Loop
 
-## Características
+O event loop fica ouvindo a call stack (pilha de chamadas) das funções abertas.
 
-- [[Event Loop]] - Call Stack
-- Single Thread
-- [[Promisses]]
+O event loop é single thread, então fica buscando nesta pilha e distribuindo entre as outras threads disponíveis.
+
+O javascript não é single thread, mas o event loop trabalha como uma distribuidora para outras threads.
+## Links
+
 - [[Consumindo API]]
+## Promises
 
 ## Linters
 
-> Podemos melhorar nosso desevolvimento javascript com as ferramentas:
-
+> Podemos melhorar nosso desenvolvimento javascript com as ferramentas:
 ### ES Lint
 
 ```bash

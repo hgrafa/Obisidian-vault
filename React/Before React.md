@@ -22,8 +22,8 @@ const employee = {
 	job: null, 
 }
 
-const salario1 = user.salary || "Não se aplica";
-const salario2 = user.salary ?? "Não se aplica"
+const salario1 = user.salary || "Não se aplica"; // nao se aplica
+const salario2 = user.salary ?? "Não se aplica"; // 0
 
 const cargo1 = user.job || "Não se aplica";
 const cargo2 = user.job ?? "Não se aplica"

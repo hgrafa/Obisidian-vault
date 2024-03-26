@@ -3,7 +3,7 @@
 
 ## Components
 
-O React também busca a [[Estilização componentizada]] para seu código, visando isolar css de cada componente, evitando possíveis sobreescritas de um css global.
+O React também busca a Estilização componentizada para seu código, visando isolar css de cada componente, evitando possíveis sobreescritas de um css global.
 
 ## Functional Components
 
@@ -18,13 +18,20 @@ export function MyComponent(props) {
 }
 ```
 
+## Css para componentes
+
+CSS modules
+## Css in Js
+
+- Styled Components
+- Stiches
 
 ## Melhorando a UX
 
-- [[Loading Skeleton Pages]]
+- Loading Skeleton Pages
 ## Roteamento
 
-- [[React Router DOM]]
+- [[React Router]]
 
 ## Explorer
 
