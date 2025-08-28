@@ -1,4 +1,4 @@
-## [[Virtual Machines]] (stack)
+## Virtual Machines (stack)
 
 1. **Hardware:** (servidor e etc)
 2. **Hypervisor:** virtualizador, sistema operacional
@@ -22,8 +22,3 @@
 
 
 ## [[Docker]]
-
-1.
-
-
-## VM vs. Containers

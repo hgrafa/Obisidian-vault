@@ -1,1 +1,0 @@
-O automapper deixa o uso de [[DTO]]s no C# mais inteligente.

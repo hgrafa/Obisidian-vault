@@ -1,6 +1,0 @@
-- [[Core Typescript]]
-- [[Angular/Components]]
-- [[Guard]]
-- [[Module]]
-- [[Angular/Services]]
-- [[Router]]

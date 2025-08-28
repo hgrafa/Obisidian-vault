@@ -3,13 +3,13 @@ Application Programming Interface
 
 [[#Rest API]] é o modelo que seguiremos na construção dessas API's, sendo atualmente o modelo mais popular.
 
-Também é possível que existam requisições do tipo [[RPC]] sendo umas das mais famosas o [[RPC#gRPC]].
+Também é possível que existam requisições do tipo RPC sendo umas das mais famosas o gRPC
 
 ## Tecnologias para fazer API's
 
-- Em javascript feitas através do Nest, [[Fastify]] e do [[Express.js]]
+- Em javascript feitas através do Nest, Fastify e do [[Express.js]]
 - Em Java através do [[Spring boot]]
-- Em C# com o [[DotNet API]]
+- Em C# com o .NET
 - Em Python com o Rest Framework, Flask e com o Fast API
 ## Composta por
 

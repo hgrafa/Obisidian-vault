@@ -1,3 +1,0 @@
-- [[Análise de Complexidade]]
-- [[Análise Assintótica]]
-- [[Teorema Mestre]]

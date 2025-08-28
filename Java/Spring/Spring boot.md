@@ -1,13 +1,70 @@
-## Importante conhecer
+# Paginação e Ordenação
 
-1. [[Core Java]]
-2. [[Lombok]]
+## Interface `Pageable`:
 
-O Spring boot segue uma filosofia de [[Esteriótipos]] durante seu desenvolvimento, utilizando Beans
+```java
+public Page<PessoaDto> list(Pageable pagination) {
+	return pessoaRepository
+		.findAll(pagination)
+		.map(PessoaDto::new);
+} 
+```
 
-## Modelo MVC
-[[Spring MVC]]
+request:
+```
+hhtps://localhost:8080/pessoas?size={tamanho}&page={pagina}
+```
 
-## Segurança
+```
+hhtps://localhost:8080/pessoas?size=20&page=2
+```
 
-- [[Spring Security]]
+## Valores e Ordenação Default
+
+```java
+public Page<PessoaDto> list(
+	@PageableDefault(size = 10, sort = {"nome"})
+	Pageable pagination
+) {
+	return pessoaRepository
+		.findAll(pagination)
+		.map(PessoaDto::new);
+}
+```
+
+## Ordenando
+
+```
+hhtps://localhost:8080/pessoas?sort={atributo}
+```
+
+```
+hhtps://localhost:8080/pessoas?sort=nome
+```
+
+- Ordena de modo ascendente pelo atributo nome.
+
+```
+hhtps://localhost:8080/pessoas?sort=nome,desc
+```
+
+- Para ordenar de modo decrescente
+
+## Customização de parametros
+
+```java
+spring.data.web.pageable.page-parameter=pagina
+spring.data.web.pageable.size-parameter=tamanho
+spring.data.web.sort.sort-parameter=ordem
+```
+
+```
+http://localhost:8080/
+	medicos?=5
+	&pagina=1
+	&ordem=email,desc
+```
+
+## Banco de dados
+
+O mais comum na comunicação com banco de dados é usarmos [[Spring Data JPA]]

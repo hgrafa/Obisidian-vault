@@ -1,5 +1,0 @@
-[[Lists]]
-[[Graphs]]
-[[Trees]]
-[[Sets]]
-[[HashTables]]

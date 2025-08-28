@@ -1,1 +1,0 @@
-[[Cortex Pré Frontal]]

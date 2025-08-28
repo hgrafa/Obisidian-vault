@@ -1,6 +1,10 @@
 {
   "accentColor": "#ff0000",
-  "baseFontSize": 21,
+  "baseFontSize": 14,
   "cssTheme": "Atom",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "monospaceFontFamily": "JetBrains Mono,Cascadia Mono",
+  "showViewHeader": false,
+  "showRibbon": true,
+  "nativeMenus": false
 }

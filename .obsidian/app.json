@@ -8,5 +8,7 @@
   "spellcheckLanguages": null,
   "readableLineLength": true,
   "strictLineBreaks": false,
-  "spellcheck": true
+  "spellcheck": true,
+  "tabSize": 2,
+  "showInlineTitle": true
 }

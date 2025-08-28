@@ -14,23 +14,125 @@
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "f8b446356f2313fa",
+            "id": "d0c72fcf51ac17ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Before React.md",
+                "file": "React/NEXT 13.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "NEXT 13"
+            }
+          },
+          {
+            "id": "a70ee8ac34fdbf80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/NEXT 13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NEXT 13"
+            }
+          },
+          {
+            "id": "34fb86e47a91e977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/React.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React"
+            }
+          },
+          {
+            "id": "675d7445c92c2df8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS & TS/Core Typescript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Core Typescript"
+            }
+          },
+          {
+            "id": "26e15309704a6f5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Spring/Spring Data JPA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spring Data JPA"
+            }
+          },
+          {
+            "id": "5ec9513ff5d412a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/API's.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API's"
+            }
+          },
+          {
+            "id": "d966a0aaceff5cd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Virtualização.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Virtualização"
+            }
+          },
+          {
+            "id": "655dfc0f08d2bd75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CV/tips.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tips"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -49,8 +151,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -65,7 +170,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -73,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -81,14 +190,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 226.5
   },
   "right": {
     "id": "07a919f8cf2e5084",
@@ -105,8 +216,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -115,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Before React.md",
+                "file": "CV/tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +238,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for tips"
             }
           },
           {
@@ -132,10 +249,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Before React.md",
+                "file": "CV/tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from tips"
             }
           },
           {
@@ -144,20 +263,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Before React.md"
-              }
+                "file": "CV/tips.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of tips"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,34 +290,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8b446356f2313fa",
+  "active": "655dfc0f08d2bd75",
   "lastOpenFiles": [
-    "Python/Decorators/Decorators.md",
-    "Python/PIP.md",
+    "Concepts/Virtualização.md",
+    "Concepts/API's.md",
+    "Java/Spring/Spring Data JPA.md",
+    "JS & TS/Core Typescript.md",
+    "React/NEXT 13.md",
+    "React/React.md",
+    "Rotas NEXT 13.md",
+    "Python/Untitled.md",
+    "RD/Modulação.md",
+    "Python/Decorators.md",
+    "High Orders Functions (HOFs).md",
+    "RD/Dopamina.md",
+    "RD/Comportamento Soma Zero.md",
+    "RD/Alimentação.md",
+    "RD/Organização.md",
+    "RD/Mimados dopaminérgicos.md",
+    "RD/Jejum de Dopamina.md",
+    "RD/Dormir bem.md",
+    "RD/Cortex Pré Frontal.md",
+    "RD/Ambiente.md",
+    "RD/Agenda.md",
     "README.md",
-    "Python/High Orders Functions (HOFs).md",
-    "Python/Decorators/Cache decorator.md",
-    "Python/Libraries/Web/Streamlit.md",
-    "Python/Libraries/Web/Fast API.md",
-    "Python/Libraries/Web/HTTPX.md",
-    "Java/Spring/Controllers.md",
-    "Javascript/Bibliotecas.md",
-    "CV/tips.md",
-    "Python/Poetry/Poetry.md",
-    "Javascript/Consumindo API.md",
-    "Javascript/Ferramentas/Fetch.md",
-    "Javascript/Core Javascript.md",
-    "Javascript/Ferramentas/Axios.md",
-    "Javascript/Testes com JS.md",
-    "React/Contexts.md",
-    "Javascript/Puppeteer.md",
-    "React/React Hooks.md",
-    "React/Reduce.md",
-    "React/UseEffect.md",
-    "React/UseState.md",
-    "React/API com React.md",
-    "Java/Spring/Paginação e Ordenação.md",
-    "React/Next/Getting Started Next.md",
+    "RPC.md",
+    "JS & TS/Json Server.md",
+    "Java/Spring/Spring Boot.md",
+    "Java/Core Java.md",
+    "Livros/Fundamentos da Arquitetura de Software",
+    "Livros/Untitled.canvas",
     "React/Redux",
     "CV",
     "Databases",
@@ -203,11 +329,9 @@
     "Python/Flask",
     "Angular/Untitled.canvas",
     "Python/Django",
-    "Javascript/Ferramentas",
-    "Concepts/Render Patterns",
+    "JS & TS/Ferramentas",
     "Assets/Pasted image 20230510162703.png",
     "Assets/Pasted image 20230510155124.png",
-    "Livros/Untitled.canvas",
     "Assets/Pasted image 20230329184643.png",
     "Assets/Pasted image 20230329184457.png",
     "Assets/Pasted image 20230329183620.png",

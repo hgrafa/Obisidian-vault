@@ -23,4 +23,3 @@ npm i @hookform/resolvers
 
 ![[Pasted image 20230329184643.png]]
 
-### Joi

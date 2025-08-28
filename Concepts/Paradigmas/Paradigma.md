@@ -1,3 +1,0 @@
-- [[Orientado a Objetos]]
-- [[Imperativo ou Procedural]]
-- [[Funcional]]

@@ -1,5 +1,6 @@
-- [[Single Page Application]]
-- [[Before React]]
+- Inicialmente pensado para Single Page Application (SPA's)
+- Normalmente usado com Vite.js ou então com algum framework mais opinado como Next
+- É uma library, como uma coleção de recursos menos opinados.
 
 ## Components
 
@@ -29,12 +30,62 @@ CSS modules
 ## Melhorando a UX
 
 - Loading Skeleton Pages
-## Roteamento
+- Para roteamento de paginas: React Router DOM 
+- React Hooks
+- [[Context API]]
 
-- [[React Router]]
+## Consumindo APIs
 
-## Explorer
+```js
+useEffect(() => {
+  loadTransactions()
+}, [])
 
-- [[React Hooks]]
-- [[API com React]]
-- [[Contexts]]
+async function loadTransactions() {
+ const response = await 
+	 fetch('http://localhost:3333/transactions')
+ 
+ const data = await response.json()
+}
+```
+
+###  Associando `UseEffect` e `UseState`
+
+```ts
+interface Transaction {
+	id: number
+	description: string
+	type: 'income' | 'outcome'
+	price: number
+	category: string
+	createdAt: string
+}
+
+const [transactions, setTransactions] = useState<Transaction[]>([])
+
+async function loadTransactions() {
+ const response = await 
+	 fetch('http://localhost:3333/transactions')
+ 
+ const data = await response.json()
+
+ setTransactions(data)
+}
+
+useEffect(() => {
+  loadTransactions()
+}, [])
+
+// ...
+```
+
+```tsx
+<tbody>
+	{transactions.map(transaction => {
+		return (
+			<td>{transaction.id}</td>
+			<td> {/*...*/} </td>
+		)
+	})}
+</tbody>
+```
